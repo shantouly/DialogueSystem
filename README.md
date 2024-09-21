@@ -1,1 +1,1 @@
-A simple DialogueSystem in Unity
+A simple method for implementing a dialogueSystem in Unity
