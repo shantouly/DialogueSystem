@@ -1,4 +1,4 @@
-A simple method for implementing a dialogueSystem in Unity  
+## A simple method for implementing a dialogueSystem in Unity  
 The file contains two C # code files and one TextAsset file.  
 Main implementation method: When the player approaches the NPC, a UI pops up prompting the player to press the R key to open the dialog box.   
 The implementation method of the dialogue system is to first group the content of the dialogue into line breaks.  
